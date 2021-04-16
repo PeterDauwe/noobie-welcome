@@ -2,8 +2,8 @@
 Name=ArcoBobo Welcome
 GenericName=ArcoBobo Welcome
 X-GNOME-FullName=ArcoBobo Welcome
-Comment=Welcome Application for ArcoBobo Installation
-Exec=/usr/bin/arcobobo-welcome
+Comment=Welcome Application for ArcoBobo Install
+Exec=/usr/local/bin/arcobobo-welcome
 Icon=arcolinux-hello
 Terminal=false
 Type=Application

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+python3 /usr/share/arcobobo-welcome/arcobobo-welcome-main.py
+

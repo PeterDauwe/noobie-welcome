@@ -14,8 +14,14 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
+#import sys
+
+#from PyQt5 import QtCore, QtWidgets
+#from ui.qt_interface import GreeterWindow
+
+
 import sys
-sys.path.append('/usr/lib/arcobobo-welcome')
+#sys.path.append('/usr/lib/arcobobo-welcome')
 sys.path.append('/usr/share/arcobobo-welcome')
 import os
 import string
@@ -38,13 +44,13 @@ class GreeterWindow(QtWidgets.QMainWindow):
 
         # Show the window
         self.ui.show()
-        
+
         # Move main window to center
         qr = self.ui.frameGeometry()
         cp = QtWidgets.QDesktopWidget().availableGeometry().center()
         qr.moveCenter(cp)
         self.ui.move(qr.topLeft())
-        
+
         # Connect the buttons
         self.ui.button_exit.clicked.connect(self.button_exit_clicked)
         self.ui.button_install.clicked.connect(self.button_install_clicked)
@@ -55,3 +61,13 @@ class GreeterWindow(QtWidgets.QMainWindow):
     def button_install_clicked(self):
         subprocess.call(["sudo", "/usr/bin/calamares"])
         quit()
+
+
+
+
+
+# main entry
+if __name__ == "__main__":
+    app = QtWidgets.QApplication(sys.argv)
+    win = GreeterWindow()
+    sys.exit(app.exec_())
