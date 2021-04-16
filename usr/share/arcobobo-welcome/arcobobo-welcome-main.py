@@ -40,7 +40,7 @@ class GreeterWindow(QtWidgets.QMainWindow):
 
         # Set window title
         self.ui.setWindowTitle("Welcome to ArcoBobo")
-        self.ui.setWindowIcon(QtGui.QIcon('/usr/share/bbqlinux/icons/bbqlinux_icon_blue_32x32.png'))
+        self.ui.setWindowIcon(QtGui.QIcon('/usr/share/arcobobo-welcome/images/arcobobo_icon.png'))
 
         # Show the window
         self.ui.show()
