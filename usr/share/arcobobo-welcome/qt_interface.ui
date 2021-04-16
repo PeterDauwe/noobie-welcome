@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>800</width>
-    <height>525</height>
+    <height>429</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -18,7 +18,7 @@
     <property name="geometry">
      <rect>
       <x>632</x>
-      <y>419</y>
+      <y>359</y>
       <width>140</width>
       <height>48</height>
      </rect>
@@ -33,24 +33,25 @@
       <x>30</x>
       <y>100</y>
       <width>741</width>
-      <height>301</height>
+      <height>250</height>
      </rect>
     </property>
     <property name="html">
-     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Oxygen-Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans Serif'; font-weight:600;&quot;&gt;ArcoBobo&lt;/span&gt;&lt;span style=&quot; font-family:'Sans Serif';&quot;&gt; is a Rolling Arch distribution and a spinoff from Arcolinux.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt;Most programs are built in but you can always add some more. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans Serif'; font-weight:600;&quot;&gt;ArcoBobo&lt;/span&gt;&lt;span style=&quot; font-family:'Sans Serif';&quot;&gt; is an Arch distribution and a spinoff from ArcoLinux.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt;this is my personal view on a Linux Distribution with my preferences. &lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Sans';&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans'; font-weight:600;&quot;&gt;ArcoBobox&lt;/span&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt; is based on Arch Linux and is using a Rolling Release Development Model which means it is getting continually updated and upgraded. It will never be necessary to re-install a later release of &lt;/span&gt;&lt;span style=&quot; font-family:'Sans'; font-weight:600;&quot;&gt;ArcoBobox&lt;/span&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt;. It is using Arcolinux Arch repos, the AUR and a &lt;/span&gt;&lt;span style=&quot; font-family:'Sans'; font-weight:600;&quot;&gt;ArcoBobo&lt;/span&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt; specific repo.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans'; font-weight:600;&quot;&gt;ArcoBobo&lt;/span&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt; is based on Arch Linux and is a Rolling Release.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt; So it will get continually updates and upgrades.&lt;/p&gt; It will never be necessary to re-install a later release of &lt;/span&gt;&lt;span style=&quot; font-family:'Sans'; font-weight:600;&quot;&gt;ArcoBobo&lt;/span&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt; It is using Arcolinux Arch repos, the AUR and an &lt;/span&gt;&lt;span style=&quot; font-family:'Sans'; font-weight:600;&quot;&gt;ArcoBobo&lt;/span&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt; specific repo.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Sans';&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt;You can stay updated by using the Arch Linux package manager called &amp;quot;pacman&amp;quot;.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt;To update the package database and all installed packages simply run &amp;quot;sudo pacman -Suy&amp;quot; or use the graphical software tool which can be found at Systemtools -&amp;gt; Software.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt;To update the package database and all installed packages simply run &amp;quot;sudo pacman -Suy&amp;quot;.&lt;/p&gt;Or use the graphical software tool which can be found at Settings -&amp;gt; Add/Remove Software.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Sans';&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt;Have fun using ArcoBobo!&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt;Have fun using &lt;/span&gt;&lt;span style=&quot; font-family:'Sans'; font-weight:600;&quot;&gt;ArcoBobo&lt;/span&gt;&lt;span style=&quot; font-family:'Sans';&quot;&gt; ! ! ! ! &lt;/html&gt;</string>
     </property>
    </widget>
    <widget class="QLabel" name="label">
@@ -74,14 +75,14 @@ p, li { white-space: pre-wrap; }
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap resource="qt_resources.qrc">:/images/images/welcome_head.png</pixmap>
+     <pixmap resource="qt_resources.qrc">:/images/images/welcome_arcobobo.png</pixmap>
     </property>
    </widget>
    <widget class="QPushButton" name="button_install">
     <property name="geometry">
      <rect>
       <x>29</x>
-      <y>419</y>
+      <y>359</y>
       <width>140</width>
       <height>48</height>
      </rect>

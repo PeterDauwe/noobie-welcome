@@ -15,4 +15,4 @@
 #
 
 # Launch bbqlinux-python-switcher with all passed arguments (future reserved)
-/usr/bin/python3 -tt /usr/lib/arcobobo-welcome/main.py $*
+/usr/bin/python3 -tt /usr/lib/arcobobo-welcome/arcobobo-welcome-main.py $*
